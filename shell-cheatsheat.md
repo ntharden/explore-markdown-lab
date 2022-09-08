@@ -15,3 +15,13 @@
 - **grep:** used to search for specified text in a file
 - **sort:** used to sort the contents of files
 - **wc:** used to count the number of characters, words in a file
+
+### **Basic Terminal Navigation Commands:**
+
+- **ls:** list of all files or folders
+  - **ls -l:** -l is used for "long" output
+  - **ls -a:** includes hidden files
+- **cd:** change directory
+- **du:** disk usage
+- **pwd:** print working directory
+- **rmdir:** remove directory
